@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Ratata89
+message: This is a demo
+type: software
+authors:
+  - given-names: Juan
+    name-particle: MR
+    family-names: Galindo
+    email: juan.galindo@gmail.com
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo
+    description: Link to JOF
+abstract: Very intersring code
+keywords:
+  - Proof
+license: MIT
